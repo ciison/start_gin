@@ -23,4 +23,4 @@ func MiddlewareCros(ctx *gin.Context) {
 }
 ```
 
-[完整代码](https://github.com/ciison/start_gin/tree/%E4%B8%AD%E9%97%B4%E4%BB%B6)
+[完整代码](https://github.com/ciison/start_gin/tree/%E4%B8%AD%E9%97%B4%E4%BB%B6fixed)
